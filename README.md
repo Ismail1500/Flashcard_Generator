@@ -6,13 +6,13 @@
 
 click on the link to open Flashcard generator ( project)
 
-- https://flashcard-generator-arpanwaddewar.netlify.app/
+- link...........................
 
 
 
 ## Explanation Video ( Youtube ) Link 
 
-- https://youtu.be/aDDiFl0CtJ8
+- lilnk................
 
 
 ## Run Locally
@@ -20,7 +20,7 @@ click on the link to open Flashcard generator ( project)
 Clone the project
 
 ```bash
-  git clone https://github.com/Arpanwaddewar/Almabetter-Frontend-capston-project.git
+  git clone https:link....................
 ```
 
 Install dependencies
@@ -46,7 +46,7 @@ Start the server
 - React Formik & Yup,
 
 
-## About The Project (Flashcard )
+## About The Project
 
 This project is created with mainly  Reactjs , In this  project mainly we have three pages 
  ```base
@@ -82,19 +82,12 @@ This project is created with mainly  Reactjs , In this  project mainly we have t
 - Edit Input box (Button)
 - View cards (Button)
 - Upload Image (Button)
-- Share (Copy Clipboard  button)
-- Social Media Butoon's ( Working )
 - See all (Button)
-- Back Button 
-- close button for closing share page 
 
+## Skills
 
-
-## 🛠 Skills
 Javascript, HTML, CSS , Reactjs 
 
 
-##  Project Created With 
-@Kaushal Kishor 
-GitHub Link : https://github.com/kaushal2608
+
 
