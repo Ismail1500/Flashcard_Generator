@@ -28,7 +28,7 @@ click on the link to open Flashcard generator ( project)
 Clone the project
 
 ```bash
-  git clone https://ismailshaikh-flashcard.netlify.app
+  git clone https://github.com/Ismail1500/Flashcard_Generator
 ```
 
 Install dependencies
