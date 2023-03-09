@@ -6,7 +6,7 @@
 
 click on the link to open Flashcard generator ( project)
 
-- link...........................
+- https://ismailshaikh-flashcard.netlify.app
 
 
 
@@ -20,7 +20,7 @@ click on the link to open Flashcard generator ( project)
 Clone the project
 
 ```bash
-  git clone https:link....................
+  git clone https://ismailshaikh-flashcard.netlify.app
 ```
 
 Install dependencies
