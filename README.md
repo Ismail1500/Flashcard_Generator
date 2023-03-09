@@ -97,5 +97,6 @@ This project is created with mainly  Reactjs , In this  project mainly we have t
 Javascript, HTML, CSS , Reactjs 
 
 
-
+## NOTE
+  <p> This capstone project is associated with <a href="https://www.almabetter.com">Almabetter</a>.</p>
 
