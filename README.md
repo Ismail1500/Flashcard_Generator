@@ -6,13 +6,13 @@
 
 click on the link to open Flashcard generator ( project)
 
-- https://ismailshaikh-flashcard.netlify.app
+### https://ismailshaikh-flashcard.netlify.app
 
 
 
 ## Explanation Video ( Youtube ) Link 
 
-- lilnk................
+### https://youtu.be/HP0NNMFItb4
 
 ## Project ScreenShot
 
