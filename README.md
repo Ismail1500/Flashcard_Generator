@@ -16,10 +16,10 @@ click on the link to open Flashcard generator ( project)
 
 ## Project ScreenShot
 
-### Image 01
+## Image 01
 <img align="center" src="https://github.com/Ismail1500/Flashcard_Generator/blob/main/image1.png"/>
 
-### Image 02
+## Image 02
 <img align="center" src="https://github.com/Ismail1500/Flashcard_Generator/blob/main/image2.png"/>
 
 
